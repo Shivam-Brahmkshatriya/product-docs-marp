@@ -2,14 +2,14 @@
 marp: true
 title: "Quarterly Earnings Presentation"
 author: "Shivam Brahmkshatriya"
-email: "shivam.brahmkshatriya@example.com"
+email: "23ds3000034@ds.study.iitm.ac.in"
 paginate: true
 ---
 
 # Quarterly Earnings
 
 **Shivam Brahmkshatriya**  
-📧 shivam.brahmkshatriya@example.com  
+📧 23ds3000034@ds.study.iitm.ac.in 
 
 ---
 
@@ -58,4 +58,5 @@ We are committed to innovation and delivering value to our stakeholders.
 
 # Thank You  
 
-📧 shivam.brahmkshatriya@example.com
+📧 23ds3000034@ds.study.iitm.ac.in
+
