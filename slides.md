@@ -69,6 +69,15 @@ Version-controlled Markdown → HTML/PDF/PPTX with **Marp**
 
 ---
 
+<!-- _backgroundImage: url('bg-architecture.jpg') -->
+<!-- _backgroundSize: cover -->
+<!-- _class: lead -->
+
+# Scenic Background Example
+
+This slide uses your uploaded photo as a full background image.
+
+
 ## Installation & Quickstart
 
 ```bash
