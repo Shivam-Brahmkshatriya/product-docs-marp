@@ -3,6 +3,7 @@ marp: true
 title: "Quarterly Earnings Presentation"
 author: "Shivam Brahmkshatriya"
 paginate: true
+footer: "Email: 23ds3000034@ds.study.iitm.ac.in"
 ---
 
 # Quarterly Earnings
@@ -25,8 +26,6 @@ Email: 23ds3000034@ds.study.iitm.ac.in
 
 We are committed to innovation and delivering value to our stakeholders.  
 
-Contact: 23ds3000034@ds.study.iitm.ac.in  
-
 ---
 
 # Quarterly Highlights
@@ -35,8 +34,6 @@ Contact: 23ds3000034@ds.study.iitm.ac.in
 - Expansion into 2 new markets  
 - Launched 3 new products  
 
-For details: 23ds3000034@ds.study.iitm.ac.in  
-
 ---
 
 # Financial Performance
@@ -44,8 +41,6 @@ For details: 23ds3000034@ds.study.iitm.ac.in
 - Total Revenue: $5.2M  
 - Net Profit: $1.1M  
 - EPS: $0.42  
-
-Email: 23ds3000034@ds.study.iitm.ac.in  
 
 ---
 
