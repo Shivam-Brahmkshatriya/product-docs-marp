@@ -65,7 +65,7 @@ Version-controlled Markdown → HTML/PDF/PPTX with **Marp**
 * Event bus: Kafka
 * Storage: Postgres + S3
 
-> Tip: Replace `images/bg-architecture.jpg` with your own diagram.
+> Tip: Replace `[images/bg-architecture.jpg](https://github.com/Shivam-Brahmkshatriya/product-docs-marp/blob/main/images/bg-architecture.jpg)` with your own diagram.
 
 ---
 
