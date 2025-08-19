@@ -1,61 +1,30 @@
 ---
 marp: true
-title: "Quarterly Earnings Presentation"
-author: "Shivam Brahmkshatriya"
+title: Technical Documentation with Marp
+author: Shivam (23ds3000034@ds.study.iitm.ac.in)
+theme: gaia
 paginate: true
-footer: "Email: 23ds3000034@ds.study.iitm.ac.in"
 ---
 
-# Quarterly Earnings
-
-Shivam Brahmkshatriya  
-Email: 23ds3000034@ds.study.iitm.ac.in  
+# Marp: Markdown Presentation Ecosystem  
+**Never use PowerPoint again 🚀**  
 
 ---
 
-# Agenda
+# What is Marp?
 
-1. Company Overview  
-2. Quarterly Highlights  
-3. Financial Performance  
-4. Future Outlook  
-
----
-
-# Company Overview
-
-We are committed to innovation and delivering value to our stakeholders.  
+- Create presentations using **Markdown**  
+- Export to **PDF, HTML, PPTX, PNG**  
+- Supports **themes, math, code, images**  
+- Works with **VS Code extension + CLI**  
 
 ---
 
-# Quarterly Highlights
+# Installation
 
-- Revenue growth of 15% YoY  
-- Expansion into 2 new markets  
-- Launched 3 new products  
+```bash
+# Install globally
+npm install -g @marp-team/marp-cli
 
----
-
-# Financial Performance
-
-- Total Revenue: $5.2M  
-- Net Profit: $1.1M  
-- EPS: $0.42  
-
----
-
-# Future Outlook
-
-- Focus on sustainable growth  
-- Continue expanding product portfolio  
-- Strengthen customer relationships  
-
----
-
-<!-- _backgroundImage: url('bg-architecture.jpg') -->
-<!-- _backgroundSize: cover -->
-<!-- _class: lead -->
-
-# Thank You  
-
-Email: 23ds3000034@ds.study.iitm.ac.in
+# Run without install
+npx @marp-team/marp-cli@latest
