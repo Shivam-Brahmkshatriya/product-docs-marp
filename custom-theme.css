@@ -1,0 +1,63 @@
+/* custom-theme.css */
+/* Define a custom Marp theme */
+
+@import 'default';
+
+@theme custom {
+  /* Slide defaults */
+  section {
+    background-color: #ffffff;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    color: #212121;
+    padding: 2em;
+  }
+
+  /* Headings style */
+  h1 {
+    color: #1976d2; /* Blue accent */
+    font-size: 2.2em;
+    font-weight: bold;
+  }
+
+  h2 {
+    color: #e91e63; /* Pink accent */
+    font-size: 1.6em;
+  }
+
+  h3 {
+    color: #424242;
+    font-size: 1.3em;
+  }
+
+  /* Lists */
+  ul, ol {
+    font-size: 1.1em;
+    line-height: 1.5;
+  }
+
+  /* Code blocks */
+  code, pre {
+    background: #263238;
+    color: #e0e0e0;
+    font-family: "Fira Code", monospace;
+    font-size: 0.9em;
+    border-radius: 6px;
+    padding: 0.5em;
+  }
+
+  /* Page numbers at bottom-right */
+  section::after {
+    content: attr(data-marpit-pagination) " / " attr(data-marpit-pagination-total);
+    position: absolute;
+    bottom: 15px;
+    right: 25px;
+    font-size: 0.75em;
+    color: #757575;
+  }
+
+  /* Footer styling */
+  footer {
+    font-size: 0.8em;
+    color: #9e9e9e;
+  }
+}
